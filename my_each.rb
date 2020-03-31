@@ -14,4 +14,3 @@ end
 my_each(tas) do |ta| 
   return ta
 end
-end
