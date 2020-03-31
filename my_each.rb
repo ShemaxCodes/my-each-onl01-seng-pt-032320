@@ -11,6 +11,6 @@ end
   # code here
 end
 
-my_each([1, 2, 3, 4]) do |x|
-  puts x 
+my_each([1, 2, 3, 4]) do{ |x| x }
+  return x 
 end
