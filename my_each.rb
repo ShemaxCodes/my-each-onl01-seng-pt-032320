@@ -11,7 +11,7 @@ if block_given?
   end
  collection
  else 
-   puts "No block is given."
+   return "No block is given."
 end
 
 end
