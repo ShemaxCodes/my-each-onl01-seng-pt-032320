@@ -10,6 +10,8 @@ if block_given?
  i = i + 1 
   end
  collection
+ else 
+   puts "No block is given."
 end
 
 end
