@@ -12,4 +12,4 @@ if block_given?
  collection
 end
 
-
+end
