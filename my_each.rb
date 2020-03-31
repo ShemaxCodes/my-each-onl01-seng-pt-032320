@@ -9,9 +9,6 @@ if block_given?
   
  i = i + 1 
   end
- return collection
- else 
-   return "No block is given."
-end
+ collection
 
 end
