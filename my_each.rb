@@ -9,7 +9,7 @@ if block_given?
   
  i = i + 1 
   end
- collection
+ return collection
  else 
    return "No block is given."
 end
