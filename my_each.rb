@@ -11,4 +11,4 @@ end
   # code here
 end
 
-my_each([1, 2, 3, 4])
+my_each([1, 2, 3, 4]) do |x|
