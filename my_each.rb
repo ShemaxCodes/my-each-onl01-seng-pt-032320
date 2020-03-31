@@ -4,7 +4,7 @@ def my_each(array) # put argument(s) here
  i = 0 
  
  while i < collection.length
-
+  yield[i]
 
   # code here
 end
