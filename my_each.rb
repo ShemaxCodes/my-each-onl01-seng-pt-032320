@@ -11,6 +11,6 @@ end
   # code here
 end
 
-my_each([1, 2, 3, 4]) do |x| 
-  return x 
+my_each(tas) do |ta| 
+  return ta
 end
