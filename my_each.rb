@@ -5,6 +5,8 @@ def my_each(array) # put argument(s) here
  
  while i < collection.length
   yield collection[i]
+  
+ i = i + 1 
 
   # code here
 end
