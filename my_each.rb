@@ -8,7 +8,7 @@ if block_given?
   yield collection[i]
   
  i = i + 1 
-end
+  end
  collection
 end
 
