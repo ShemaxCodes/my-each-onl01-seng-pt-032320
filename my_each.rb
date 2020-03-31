@@ -10,3 +10,5 @@ def my_each(array) # put argument(s) here
 end
   # code here
 end
+
+my_each
